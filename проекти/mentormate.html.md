@@ -3,6 +3,7 @@ layout: project
 highlight: /about/mentormate/highlight
 rel: /portfolio/mentormate
 title: MentorMate
+pageTitle: Дигитален маркетинг Уеб дизайн и SEO оптимизация за Mentormate
 caption: Разработка на софтуер
 description: MentorMate предлага цялостни софтуерни решения, интегриращи мобилни решения за iPhone, Android и BlackBerry с Web и Backend системи.
 order: 8

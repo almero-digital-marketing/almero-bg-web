@@ -3,6 +3,7 @@ layout: project
 highlight: /about/blackmarket/highlight
 rel: /portfolio/blackmarket
 title: Black Market
+pageTitle: Дигитален маркетинг, уеб дизайн и мултимедия за Blackmarket
 caption: Стайлинг и дрехи по поръчка
 description: Това, което предлагат в Black Market е класическа визия с модерни акценти, които да се превърнат в незаменима част от вашия ежедневен гардероб.
 order: 4
