@@ -5,7 +5,7 @@ rel: /portfolio/mentormate
 title: MentorMate
 pageTitle: Дигитален маркетинг Уеб дизайн и SEO оптимизация за Mentormate
 caption: Разработка на софтуер
-description: MentorMate предлага цялостни софтуерни решения, интегриращи мобилни решения за iPhone, Android и BlackBerry с Web и Backend системи.
+description: Успяхме да организираме цялостна HR кампания по набиране на служители, използвайки възможностите на дигиталния маркетинг. Създадохме уеб сайт и заложихме на SEO оптимизация за популяризиране на фирмата.
 order: 8
 header: compact
 services: [marketing, web-design, multimedia, optimization, advertising]
