@@ -5,7 +5,7 @@ rel: /portfolio/blackmarket
 title: Black Market
 pageTitle: Дигитален маркетинг, уеб дизайн и мултимедия за Blackmarket
 caption: Стайлинг и дрехи по поръчка
-description: Маркетинговата ни стратегия по проекта включваше работа в социалните мрежи, таргетирана онлайн реклама и SEO оптимизация. Заснехм и поредицата мутимедийни материали представящи Blackmarket по най-добрия начин.
+description: Маркетинговата ни стратегия по проекта включваше работа в социалните мрежи, таргетирана онлайн реклама и SEO оптимизация. Заснехме и поредицата от видео материали представящи Blackmarket по най-добрия начин.
 order: 4
 header: compact
 services: [marketing, web-design, multimedia, social, optimization, advertising, analysis]
